@@ -1,2 +1,2 @@
-# project-github-api
-This project uses the GitHub api to fetch data from users, was made for study purposes.
+# projeto-inicial-fetch-github-api
+Repositório contendo os arquivos iniciais do projeto de Fetch e GitHub API
